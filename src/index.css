@@ -1,0 +1,13 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: "Source Serif 4", serif;
+ 
+}
+#title-style{
+  font-family: "Dancing Script", cursive;
+  font-size: larger;
+  font-size: 50px;
+  color: rgb(139, 130, 34);
+}
